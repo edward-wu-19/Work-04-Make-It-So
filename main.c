@@ -1,4 +1,5 @@
 #include "euler.h"
+#include <stdio.h>
 
 int main(){
     printf("Problem 1 :\t%d\n", problem1());
